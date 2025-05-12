@@ -1,5 +1,4 @@
-# AI-Powered-Learning-and-Career-Assistance-Platform
-# Intelligent Career Guidance System 🎓💼
+# AI-Powered-Learning-and-Career-Assistance-Platform 🎓💼
 
 ## Overview
 
